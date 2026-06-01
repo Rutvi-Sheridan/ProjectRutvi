@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Rutvi PAnchal
+ * @author Rutvi PANCHAL
  */
 public class SimpleCalculator {
 
